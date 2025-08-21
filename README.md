@@ -141,27 +141,6 @@ recorder_mobile/
 - **Research**: Collect speech samples
 - **Education**: Create audio lessons
 
-## 🚀 Deployment
-
-### Android APK Distribution
-
-#### Option 1: Google Play Store (Recommended)
-- Create developer account at [Google Play Console](https://play.google.com/console)
-- Upload signed APK or AAB file
-- Follow Google's publishing guidelines
-
-#### Option 2: Direct APK Distribution
-- Build release APK: `flutter build apk --release`
-- Upload to file sharing services:
-  - **Google Drive**: Share via link
-  - **Dropbox**: Public folder sharing
-  - **GitHub Releases**: Attach to releases
-  - **Firebase App Distribution**: For testing
-
-#### Option 3: Alternative App Stores
-- **F-Droid**: Open source app store
-- **Amazon Appstore**: For Fire devices
-- **Huawei AppGallery**: For Huawei devices
 
 ### iOS Distribution
 - **App Store**: Through Apple Developer Program
@@ -217,14 +196,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Contributors to the open-source packages used
 - Community members for feedback and suggestions
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/recorder-mobile/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/recorder-mobile/discussions)
-- **Email**: your.email@example.com
-
----
-
-**Made with ❤️ using Flutter**
-
-*Version: 1.0.0 | Last Updated: August 2024*
